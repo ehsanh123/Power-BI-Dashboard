@@ -28,3 +28,19 @@ This first test includes:
 
 ## 📁 Project Structure
 
+stock-prediction-dashboard/
+│
+├── data/ # Sample data & preprocessing scripts
+├── models/ # Trained models or model loading functions
+├── notebooks/ # EDA and experiment tracking
+├── dashboard/ # Streamlit/Flask web app code
+├── utils/ # Reusable scripts and helpers
+├── requirements.txt # Dependencies
+---
+
+## 🛠️ How to Run
+
+1. **Clone the repo:**
+```bash
+git clone https://github.com/yourusername/stock-prediction-dashboard.git
+cd stock-prediction-dashboard
