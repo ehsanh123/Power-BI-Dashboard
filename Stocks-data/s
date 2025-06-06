@@ -1,1 +1,30 @@
-s
+# 📈 Stock Market Prediction Dashboard – First Test
+
+A minimal prototype dashboard for visualizing and testing stock market predictions using machine learning. This version focuses on the core prediction logic, basic visual output, and integration of initial data sources.
+
+---
+
+## 🚀 Project Overview
+
+This dashboard is part of an Agile/CRISP-DM-driven AI project aimed at predicting stock trends using historical prices and alternative data (e.g., sentiment, Google Trends).
+
+This first test includes:
+- Baseline model prediction (e.g., Linear Regression or LSTM)
+- Visual comparison of actual vs predicted prices
+- Initial data pipeline setup
+- Simple web interface (e.g., Streamlit or Flask)
+
+---
+
+## 🧠 Core Features
+
+- 🧾 Historical stock data (Yahoo Finance API)
+- 🧪 First-pass prediction model
+- 📊 Time-series visualization (Matplotlib/Plotly)
+- 🧮 Error metrics: RMSE, MAE
+- 🧰 Modular codebase for future enhancements
+
+---
+
+## 📁 Project Structure
+
